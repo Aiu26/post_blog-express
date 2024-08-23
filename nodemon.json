@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "aiushi-udemy",
+		"DB_PASSWORD": "aiushi26",
+		"DB_NAME": "mern",
+		"JWT_KEY": "supersecret",
+		"GOOGLE_API_KEY": "AIzaSyCIQ5M_n7rfkL7BgTLdCo5Ovbm4XUFOm0M"
+	}
+}
